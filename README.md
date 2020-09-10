@@ -6,8 +6,13 @@ This is code status in CSIE-AIOT organization.
 
 
 DOC = Document
+
 PJ = Project
+
 LAB = Laboratory code
+
 CNF = Configuration Computing
+
 PR = practice code 
+
 TUT = tutorial
